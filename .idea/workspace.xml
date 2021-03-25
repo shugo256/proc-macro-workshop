@@ -16,6 +16,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/builder/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/builder/src/lib.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/builder/tests/progress.rs" beforeDir="false" afterPath="$PROJECT_DIR$/builder/tests/progress.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     <property name="org.rust.disableDetachedFileInspection/Users/fujimurashugo/Documents/Rust/proc-macro-workshop/builder/tests/02-create-builder.rs" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Cargo.Expand workshop">
+  <component name="RunManager" selected="Cargo.Test Builder">
     <configuration name="Expand workshop" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="expand --bin workshop --color=always --theme=&quot;Monokai Extended&quot;  --tests" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -113,7 +114,7 @@
       <updated>1616603918566</updated>
       <workItem from="1616603920866" duration="387000" />
       <workItem from="1616604763512" duration="145000" />
-      <workItem from="1616604934209" duration="13236000" />
+      <workItem from="1616604934209" duration="17723000" />
     </task>
     <task id="LOCAL-00001" summary="BigBang">
       <created>1616605465272</created>
@@ -136,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616658338498</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="03-call-setters">
+      <created>1616661447176</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616661447176</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +166,7 @@
     <MESSAGE value="BigBang" />
     <MESSAGE value="01-parse" />
     <MESSAGE value="02-create-builder" />
-    <option name="LAST_COMMIT_MESSAGE" value="02-create-builder" />
+    <MESSAGE value="03-call-setters" />
+    <option name="LAST_COMMIT_MESSAGE" value="03-call-setters" />
   </component>
 </project>
